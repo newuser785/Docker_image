@@ -19,7 +19,7 @@
 
 ├── app.py # Основной Python-скрипт
 
-## screenshots
+## Screenshots
 
 ├── creating a docker image
 
