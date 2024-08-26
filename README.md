@@ -19,6 +19,12 @@
 
 ├── app.py # Основной Python-скрипт
 
+## screenshots
+
+├── creating a docker image
+
+├── docker desktop
+
 ### app.py
 
 Этот Python-скрипт выполняет следующие задачи:
