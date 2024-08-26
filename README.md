@@ -24,7 +24,6 @@
 ├── creating a docker image
 
 ├── docker desktop
-
 ##
 
 ### app.py
