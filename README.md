@@ -13,11 +13,11 @@
 
 Проект состоит из следующих файлов:
 
-├── app.py # Основной Python-скрипт
+├── Dockerfile # Dockerfile для сборки Docker-образа
 
 ├── README.md # Подробное описание проекта и руководство по использованию
 
-├── Dockerfile # Dockerfile для сборки Docker-образа
+├── app.py # Основной Python-скрипт
 
 ### app.py
 
